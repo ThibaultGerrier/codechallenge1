@@ -12,6 +12,7 @@
     "pixi.js": "^6.1.2"
   },
   "devDependencies": {
-    "http-server": "^13.0.0"
+    "http-server": "^13.0.0",
+    "prettier": "^2.7.1"
   }
 }
